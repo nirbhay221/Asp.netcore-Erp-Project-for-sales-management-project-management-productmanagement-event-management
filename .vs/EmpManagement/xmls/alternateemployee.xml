@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alternateemployees>
+<alternateemployee>
+
+<id>1</id>
+<name>Name 1</name>
+<location>Location 1</location>
+<availability>yes</availability>
+<role>Role 1</role>
+<status>Status 1</status>
+<startdate>10/02/2019</startdate>
+<homeaddress>Add 1</homeaddress>
+<reportsto>R1</reportsto>
+<emailaddress>Email 1</emailaddress>
+<dob>12/10/2019</dob>
+<passportdate>11/10/2019</passportdate>
+<salarydate>09/08/2019</salarydate>
+<medicalinsurancedate>07/08/2019</medicalinsurancedate>
+<eidadate>06/07/2019</eidadate>
+<objective>obj 1</objective></alternateemployee>
+<alternateemployee>
+
+<id>2</id>
+<name>Name 2</name>
+<location>Location 2</location>
+<availability>yes</availability>
+<role>Role 2</role>
+<status>Status 2</status>
+<startdate>10/02/2019</startdate>
+<homeaddress>Add 2</homeaddress>
+<reportsto>R2</reportsto>
+<emailaddress>Email 2</emailaddress>
+<dob>12/10/2019</dob>
+<passportdate>11/10/2019</passportdate>
+<salarydate>09/08/2019</salarydate>
+<medicalinsurancedate>07/08/2019</medicalinsurancedate>
+<eidadate>06/07/2019</eidadate>
+<objective>obj 2</objective></alternateemployee><alternateemployee>
+
+<id>3</id>
+<name>Name 3</name>
+<location>Location 3</location>
+<availability>yes</availability>
+<role>Role 3</role>
+<status>Status 3</status>
+<startdate>10/02/2019</startdate>
+<homeaddress>Add 3</homeaddress>
+<reportsto>R3</reportsto>
+<emailaddress>Email 3</emailaddress>
+<dob>12/10/2019</dob>
+<passportdate>11/10/2019</passportdate>
+<salarydate>09/08/2019</salarydate>
+<medicalinsurancedate>07/08/2019</medicalinsurancedate>
+<eidadate>06/07/2019</eidadate>
+<objective>obj 3</objective></alternateemployee></alternateemployees>

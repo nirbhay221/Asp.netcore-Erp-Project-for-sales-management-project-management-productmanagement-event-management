@@ -1,0 +1,61 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    <h3>Cart Info</h3>
+    <table border="1" cellspacing="2" celladding="2">
+        <tr><th></th>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+
+            <th>sub Total</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in ViewBag.cart)
+        {
+
+            <tr>
+                <td>
+                    <a asp-controller="cart" asp-action="remove" asp-route-id="@item.rented.Id">X</a>
+
+                </td>
+                <td>@item.rented.Id</td>
+
+                <td>@item.rented.Name</td>
+                <td>@item.rented.Price</td>
+
+                <td>@item.Quantity</td>
+
+                <td>@(item.Quantity * item.rented.Price)</td>
+
+
+
+
+
+
+
+            </tr>
+        }
+        <tr>
+            <td colspan="5" align="Right">Total</td>
+            <td>@ViewBag.total</td>
+        </tr>
+    </table>
+    <br />
+    <br />
+    <a asp-controller="rentedforproject" asp-action="nextnextnextindex">Continue Shopping </a>
+
+</body>
+</html>

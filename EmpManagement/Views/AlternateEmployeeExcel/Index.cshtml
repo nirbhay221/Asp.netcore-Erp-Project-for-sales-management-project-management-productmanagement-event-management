@@ -1,0 +1,86 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @ViewBag.result
+    <br />
+    <form method="post" enctype="multipart/form-data" asp-controller="alternateemployeeexcel" asp-action="importXML">
+        <input type="file" name="xmlFile" />
+        <input type="submit" name="Import" />
+
+
+        <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    </form>
+    @if (ViewBag.AlternateEmployee != null)
+    {
+
+        <table border="1">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Location</th>
+                <th> Availability </th>
+                <th>Role </th>
+                <th>Status</th>
+                <th> StartDate</th>
+                <th> HomeAddress</th>
+
+                <th>ReportsTo</th>
+                <th>EmailAddress</th>
+                <th> Dob </th>
+                <th>  PassportDate</th>
+                <th> SalaryDate </th>
+                <th> MedicalInsuranceDate</th>
+                <th>EidaDate </th>
+
+                <th>Objective</th>
+
+            </tr>
+            @foreach (var AlternateEmployee in ViewBag.AlternateEmployee)
+            {
+        <tr>
+            <td>@AlternateEmployee.Id</td>
+            <td>@AlternateEmployee.Name</td>
+            <td>@AlternateEmployee.Location</td>
+            <td>@AlternateEmployee.Availability</td>
+
+            <td>@AlternateEmployee.Role</td>
+
+            <td>@AlternateEmployee.Status</td>
+            <td>@AlternateEmployee.StartDate</td>
+            <td>@AlternateEmployee.HomeAddress</td>
+            <td>@AlternateEmployee.ReportsTo</td>
+            <td>@AlternateEmployee.EmailAddress</td>
+            <td>@AlternateEmployee.Dob</td>
+            <td>@AlternateEmployee.PassportDate</td>
+            <td>@AlternateEmployee.SalaryDate </td>
+            <td>@AlternateEmployee.MedicalInsuranceDate</td>
+            <td>@AlternateEmployee.EidaDate</td>
+
+            <td>@AlternateEmployee.Objective</td>
+        </tr>
+            }
+        </table>
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

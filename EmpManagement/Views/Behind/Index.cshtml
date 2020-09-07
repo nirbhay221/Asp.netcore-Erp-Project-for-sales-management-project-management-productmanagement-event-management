@@ -1,0 +1,69 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Behind Project List</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="@Url.Action("~/scripts/jquery-3.3.1.min.js")"></script>
+    <script type="text/javascript" src="@Url.Action("~/scripts/bootstrap.min.js")"></script>
+</head>
+<body>
+    <a asp-controller="Behind" asp-action="add">Add Project</a>
+    <div></div><div></div>
+    <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    <div class="container-fluid py-4">
+        <h4 class="text-center text-uppercase">Behind Project List</h4>
+        <table class="table table-striped table-bordered">
+            <thead class="bg-dark text-white">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Status</th>
+                    <th>Category</th>
+                    <th>Owner</th>
+                    <th>Lead</th>
+                    <th>Budget</th>
+                    <th>Profit</th>
+                    <th>Options</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var Behind in ViewBag.Behind)
+                {
+                    <tr>
+                        <td>@Behind.Id</td>
+                        <td>@Behind.Name</td>
+                        <td>@Behind.Status</td>
+                        <td>@Behind.Category</td>
+
+                        <td>@Behind.Owner</td>
+
+                        <td>@Behind.Lead</td>
+
+                        <td>@Behind.Budget</td>
+                        <td>@Behind.Profit</td>
+
+                        <td>
+                            <a asp-controller="Behind" asp-action="edit" asp-route-id="@Behind.Id">Edit</a>
+                            |
+                            <a asp-controller="Behind" asp-action="delete" asp-route-id="@Behind.Id" onclick="return confirm('Are you sure ?')">Delete</a>
+                        </td>
+
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+<style>
+    body {
+        background: url('https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat fixed center center;
+        background-size: cover;
+        font-family: Montserrat;
+    }
+</style>

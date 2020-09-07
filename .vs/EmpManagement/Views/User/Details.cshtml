@@ -1,0 +1,58 @@
+﻿@model HomeDetailsViewModel
+
+@{
+    //In ViewStart
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Employee Details";
+    var photoPath = "~/images/" + (Model.Employee.PhotoPath ?? "no_photo.png");
+}
+
+
+
+@*ViewBag Can be used here but is loosly Typed*@
+@*<h3> @Model.PageTitle</h3>
+    <div>
+        Name :@Model.Employee.Name
+    </div>
+    <div>
+        Email :@Model.Employee.Email
+    </div>
+    <div>
+        Depaartment :@Model.Employee.Department
+    </div>*@
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.Employee.Name</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <img class="card-img-top" src="@photoPath" asp-append-version="true" />
+                <h4>Emp Id :@Model.Employee.Id</h4>
+                <h4>Email :@Model.Employee.Email</h4>
+                <h4>Department :@Model.Employee.Department</h4>
+
+            </div>
+            <div class="card-footer text-center">
+                <form method="post" asp-action="Delete" asp-route-id="@Model.Employee.Id">
+                    <a asp-controller="user" asp-action="Index" asp-route-id="@Model.Employee.Id"
+                       class="btn btn-primary">Back</a>
+                    <a asp-controller="user" asp-action="edit" asp-route-id="@Model.Employee.Id"
+                       class="btn btn-primary">Edit</a>
+                    <button type="submit" class="btn btn-danger"
+                            onclick="return confirm('Are you sure you want to delete this Employee : @Model.Employee.Name')">
+                        Delete
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <script src="~/js/CustomScript.js"></script>
+}
+
+@*<a hreff="#" class="btn btn-danger">Delete</a>*@
+

@@ -1,0 +1,229 @@
+﻿
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Edit</title>
+    </head>
+    <a asp-controller="mainhome" asp-action="newindex">index</a>
+    <div></div>
+    <div></div>
+    <a asp-controller="timeline" asp-action="nextindex">Timeline Objective List</a>
+
+    <div></div>
+    <div></div>
+
+    <a asp-controller="notification" asp-action="timeline">Notify Everyone</a>
+    <body>
+
+        <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+        <ul class="timeline">
+            @foreach (var item in ViewBag.Timeline)
+            {
+                <li class="year"> @item.Deadline</li>
+                <li class="event"> @item.Objective</li>
+
+            }
+        </ul>
+    </body>
+    </html>
+    <script>https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js</script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <style>
+        body {
+            background: url('http://i.imgur.com/Eor57Ae.jpg') no-repeat fixed center center;
+            background-size: cover;
+            font-family: Montserrat;
+        }
+
+        .logo {
+            width: 213px;
+            height: 36px;
+            background: url('http://i.imgur.com/fd8Lcso.png') no-repeat;
+            margin: 30px auto;
+        }
+
+        .login-block {
+            width: 320px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            border-top: 5px solid #ff656c;
+            margin: 0 auto;
+        }
+
+            .login-block h1 {
+                text-align: center;
+                color: #000;
+                font-size: 18px;
+                text-transform: uppercase;
+                margin-top: 0;
+                margin-bottom: 20px;
+            }
+
+            .login-block input {
+                width: 100%;
+                height: 42px;
+                box-sizing: border-box;
+                border-radius: 5px;
+                border: 1px solid #ccc;
+                margin-bottom: 20px;
+                font-size: 14px;
+                font-family: Montserrat;
+                padding: 0 20px 0 50px;
+                outline: none;
+            }
+
+                .login-block input#username {
+                    background: #fff url('http://i.imgur.com/u0XmBmv.png') 20px top no-repeat;
+                    background-size: 16px 80px;
+                }
+
+                    .login-block input#username:focus {
+                        background: #fff url('http://i.imgur.com/u0XmBmv.png') 20px bottom no-repeat;
+                        background-size: 16px 80px;
+                    }
+
+                .login-block input#password {
+                    background: #fff url('http://i.imgur.com/Qf83FTt.png') 20px top no-repeat;
+                    background-size: 16px 80px;
+                }
+
+                    .login-block input#password:focus {
+                        background: #fff url('http://i.imgur.com/Qf83FTt.png') 20px bottom no-repeat;
+                        background-size: 16px 80px;
+                    }
+
+                .login-block input:active, .login-block input:focus {
+                    border: 1px solid #ff656c;
+                }
+
+            .login-block button {
+                width: 100%;
+                height: 40px;
+                background: #ff656c;
+                box-sizing: border-box;
+                border-radius: 5px;
+                border: 1px solid #e15960;
+                color: #fff;
+                font-weight: bold;
+                text-transform: uppercase;
+                font-size: 14px;
+                font-family: Montserrat;
+                outline: none;
+                cursor: pointer;
+            }
+
+                .login-block button:hover {
+                    background: #ff7b81;
+                }
+
+        .timeline {
+            margin: 0 auto;
+            max-width: 700px;
+            overflow: hidden;
+            height: auto;
+            position: relative;
+            padding: 0;
+            list-style-type: none;
+            background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEElEQVQIW2NMTEz8z8gABAAPKwIlXWq1kgAAAABJRU5ErkJggg==");
+            background-repeat: repeat-y;
+            background-position: 50% 0;
+        }
+
+            .timeline *, .timeline *:after, .timeline *:before {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box
+            }
+
+            .timeline .year {
+                background: #505050;
+                font-size: 4em;
+                max-width: 7em;
+                clear: both;
+                margin: 1em auto;
+                color: #fff;
+                border-radius: 30%/100%;
+                text-align: center;
+                margin-top: 50px;
+            }
+
+                .timeline .year:first-of-type {
+                    margin-top: 0 !important
+                }
+
+                .timeline .year + .event {
+                    margin-top: -1.5em
+                }
+
+            .timeline .event {
+                position: relative;
+                text-align: center;
+                float: right;
+                clear: right;
+                width: 45%;
+                margin: 10px 2.5%;
+                border-radius: 5px;
+                list-style-type: none;
+                display: block;
+                padding: .4em;
+                background: #fff;
+                z-index: 15;
+                color: #4d4d4d;
+                border: 1px solid #a8a8a8;
+                text-decoration: none;
+                -webkit-transition: background .15s linear;
+                -moz-transition: background .15s linear;
+                -ms-transition: background .15s linear;
+                -o-transition: background .15s linear;
+                transition: background .15s linear;
+            }
+
+                .timeline .event img {
+                    max-height: 7em;
+                    max-width: 100%
+                }
+
+                .timeline .event.featured {
+                    width: 95% !important;
+                }
+
+                    .timeline .event.featured:after, .timeline .event.featured:before {
+                        display: none
+                    }
+
+                .timeline .event.offset-first {
+                    margin-top: -1.5em
+                }
+
+                .timeline .event img {
+                    margin-top: 10px;
+                    max-width: 100%
+                }
+
+                .timeline .event:hover {
+                    background: #f6f6f6;
+                }
+
+                    .timeline .event:hover:after {
+                        background: #505050
+                    }
+
+                .timeline .event:nth-of-type(2n) {
+                    float: left;
+                    clear: left;
+                }
+
+                    .timeline .event:nth-of-type(2n):after {
+                        right: -5%;
+                        left: auto
+                    }
+
+            .timeline time {
+                display: block;
+                font-weight: bold
+            }
+    </style>

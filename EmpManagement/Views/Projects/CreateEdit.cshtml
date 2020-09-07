@@ -1,0 +1,61 @@
+﻿@using EmpManagement.Controllers
+@model EmpManagement.Models.Project
+
+@{
+    var actionType = ViewBag.ActionType as string;
+    var title = actionType.ToLower() == "edit" ? "Edit" : "Add";
+    ViewData["Title"] = title;
+}
+
+<h2>@title</h2>
+
+<form asp-action="@actionType">
+    <div class="form-horizontal">
+        <hr />
+        @if (actionType.ToLower() == "edit")
+        {
+            @Html.HiddenFor(model => model.Id)
+        }
+        <div class="form-group">
+            <label asp-for="Name" class="col-md-2 control-label">Name</label>
+            <div class="col-md-10">
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger" />
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <strong class="col-md-2 control-label">Products :</strong>
+        <span class="col-md-12"></span>
+        @foreach (var ingr in Model.UsedProducts)
+        {
+            <div class="col-md-push-2 col-md-10">
+                @{ bool shouldBeDisabled = MandatoryProducts.Products.Contains(ingr.Key); }
+                <label for="@(nameof(Model.UsedProducts))[@(ingr.Key)]">@ingr.Key</label>
+                <input type="checkbox" name="@(nameof(Model.UsedProducts))[@(ingr.Key)]" @(shouldBeDisabled || ingr.Value ? "checked" : "") value="true" data-mandatory="@shouldBeDisabled.ToString().ToLower()" />
+            </div>
+        }
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="@(actionType.ToLower() == "edit" ? "Edit" : "Add")" class="btn btn-default" />
+        </div>
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Returning To Index</a>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript">
+$("input[type='checkbox'][data-mandatory='true']").on("click", function(args) {
+            args.preventDefault();
+        });</script>
+}

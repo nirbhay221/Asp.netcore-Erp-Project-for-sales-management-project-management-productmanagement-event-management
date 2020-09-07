@@ -1,0 +1,29 @@
+﻿@model EmpManagement.Models.Project
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Project @Model.Name</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Details
+        </dt>
+        <dd>
+            <ul>
+                @foreach (var ingr in Model.UsedProducts.Where(i => i.Value))
+                {
+                    <li>@ingr.Key</li>
+                }
+            </ul>
+        </dd>
+    </dl>
+</div>
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Return Back to Menu</a>
+</p>

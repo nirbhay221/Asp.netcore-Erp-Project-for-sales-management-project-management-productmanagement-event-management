@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<saless>
+<sales>
+<id>1</id>
+<name>Name 1</name>
+<rep>R 1</rep>
+<salesstage>s 1</salesstage>
+<priority>p 1</priority>
+<expectedclosedate>10/2/2019</expectedclosedate>
+<forecastvalue>21</forecastvalue>
+<probability>213</probability>
+<lastcontact>11/2/2019</lastcontact>
+<signedcontractvalue>21</signedcontractvalue>
+<quantity>211</quantity>
+<notes>N2</notes>
+</sales>
+<sales>
+<id>2</id>
+<name>Name 2</name>
+<rep>R 2</rep>
+<salesstage>s 2</salesstage>
+<priority>p 2</priority>
+<expectedclosedate>10/3/2019</expectedclosedate>
+<forecastvalue>21</forecastvalue>
+<probability>213</probability>
+<lastcontact>11/3/2019</lastcontact>
+<signedcontractvalue>21</signedcontractvalue>
+<quantity>211</quantity>
+<notes>N3</notes>
+</sales>
+</saless>

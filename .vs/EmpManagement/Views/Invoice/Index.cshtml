@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EmpManagement.Models.ViewModel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="@Url.Action("~/scripts/jquery-3.3.1.min.js")"></script>
+    <script type="text/javascript" src="@Url.Action("~/scripts/bootstrap.min.js")"></script>
+</head>
+<body>
+    <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    <div class="container-fluid py-4">
+        <h4 class="text-center text-uppercase">Project Sales List</h4>
+        <table class="table table-striped table-bordered">
+            <thead class="bg-dark text-white">
+                <tr>
+                    <th>Id</th>
+
+                    <th>Project Name</th>
+                   
+                    <th>Sales Stage</th>
+               
+                    <th>Priority</th>
+                    <th>SignedContractValue</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ProductSales.Id</td>
+                        <td>@item.project.Name</td>
+                        <td>@item.sales.SalesStage</td>
+
+                        <td>@item.sales.Priority</td>
+                        <td>@item.sales.SignedContractValue</td>
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html> 

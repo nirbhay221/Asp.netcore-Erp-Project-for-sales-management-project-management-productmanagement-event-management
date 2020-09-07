@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Event>
+		<id>1</id>
+		<title>Event 1</title>
+		<description>Description 1</description>
+		<startdate>10/11/2019</startdate>
+		<enddate>10/11/2019</enddate>
+		<budget>32</budget>
+		<profit>213</profit>
+		<location>Location 1</location>
+	</Event>
+	<Event>
+		<id>2</id>
+		<title>Event 2</title>
+		<description>Description 2</description>
+		<startdate>10/11/2019</startdate>
+		<enddate>10/11/2019</enddate>
+		<budget>32</budget>
+		<profit>213</profit>
+		<location>Location 2</location>
+	</Event>
+	<Event>
+		<id>3</id>
+		<title>Event 3</title>
+		<description>Description 3</description>
+		<startdate>10/11/2019</startdate>
+		<enddate>10/11/2019</enddate>
+		<budget>32</budget>
+		<profit>213</profit>
+		<location>Location 3</location>
+	</Event>
+</events>

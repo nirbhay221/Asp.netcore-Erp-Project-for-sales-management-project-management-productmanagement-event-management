@@ -1,0 +1,95 @@
+﻿@model PagedList.IPagedList<EmpManagement.Models.RentedForProject>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Rented For Project Product List</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="@Url.Action("~/scripts/jquery-3.3.1.min.js")"></script>
+    <script type="text/javascript" src="@Url.Action("~/scripts/bootstrap.min.js")"></script>
+
+</head>
+<body>
+    <div class="container" style="margin-top: 20px;">
+
+
+        <form method="get" asp-controller="rentedforproject" asp-action="search">
+            <input type="text" name="keyword" value="@ViewBag.keyword" />
+            <input type="submit" value="Search" />
+            @if (Model != null)
+            {
+                <h4 class="text-center text-uppercase">Product List</h4>
+                <table class="table table-striped table-bordered" id="table">
+                    <thead class="bg-dark text-white">
+                        <tr class="titlerow">
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Status</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Project</th>
+                            <th>RentedFrom</th>
+                            <th>RentedTo</th>
+                            <th>Options</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var RentedForProject in Model)
+                        {
+                            <tr>
+                                <td>@RentedForProject.Id</td>
+                                <td>@RentedForProject.Name</td>
+                                <td>@RentedForProject.Status</td>
+                                <td>@RentedForProject.Price</td>
+
+                                <td>@RentedForProject.Quantity</td>
+
+                                <td>@RentedForProject.Project</td>
+
+                                <td>@RentedForProject.RentedFrom</td>
+
+                                <td>@RentedForProject.RentedTo</td>
+
+                                <td>
+                                    <a asp-controller="RentedForProject" asp-action="edit" asp-route-id="@RentedForProject.Id">Edit</a>
+                                    |
+                                    <a asp-controller="RentedForProject" asp-action="delete" asp-route-id="@RentedForProject.Id" onclick="return confirm('Are you sure ?')">Delete</a>
+                                </td>
+
+
+                            </tr>
+
+
+                        }
+
+                    </tbody>
+                </table>
+            }
+        </form>
+    </div>
+</body>
+</html><div class="total1">Total Price:</div> <div class="total2">Total Quantity:</div>
+<script>
+    var total1 = 0;
+    $("#table td:nth-child(4)").each(function (index) {
+        // $(this).html() will fetch the each cell value of column 2
+
+        total1 = parseInt($(this).html()) + total1;
+
+        document.getElementsByTagName('div')[5].innerHTML = "Total Price : " + total1;
+    }); var total2 = 0;
+    $("#table td:nth-child(5)").each(function (index) {
+        // $(this).html() will fetch the each cell value of column 2
+
+        total2 = parseInt($(this).html()) + total2;
+
+        document.getElementsByTagName('div')[6].innerHTML = "Total Quantity : " + total2;
+    });</script>
+<style>
+    body {
+        background: url('https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat fixed center center;
+        background-size: cover;
+        font-family: Montserrat;
+    }
+</style>

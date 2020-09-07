@@ -1,0 +1,680 @@
+﻿<style>
+    .menu {
+        margin-left: 750px;
+        margin-top: -20px;
+        background-image: url("https://pbs.twimg.com/profile_images/378800000320604622/5c2f76ec9a11c3dcd86e484bf5f3312f_400x400.png");
+    }
+
+        .menu li {
+            background-color: cadetblue;
+        }
+
+    .video-container .poster img {
+        width: 100%;
+        bottom: 0;
+        position: absolute;
+    }
+
+    .video-container .filter {
+        z-index: 100;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.4);
+        width: 100%;
+    }
+
+    .video-container .title-container {
+        z-index: 1000;
+        position: absolute;
+        top: 35%;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+    }
+
+    .video-container .description .inner {
+        font-size: 1em;
+        width: 45%;
+        margin: 0 auto;
+    }
+
+    .video-container .link {
+        position: absolute;
+        bottom: 3em;
+        width: 200%;
+        text-align: center;
+        z-index: 1001;
+        font-size: 2em;
+        color: #fff;
+    }
+
+        .video-container .link a {
+            color: #fff;
+        }
+
+    .video-container video {
+        position: absolute;
+        z-index: 0;
+        bottom: 0;
+    }
+
+        .video-container video.fillWidth {
+            width: 100%;
+        }
+
+
+    .homepage-hero-module {
+        border-right: none;
+        border-left: none;
+        position: center;
+    }
+
+    .no-video .video-container video,
+    .touch .video-container video {
+        display: none;
+    }
+
+    .no-video .video-container .poster,
+    .touch .video-container .poster {
+        display: block !important;
+    }
+
+    .video-container {
+        bottom: 0%;
+        left: 0;
+        top: 0%;
+        right: 0%;
+        overflow: auto;
+        background: #000;
+        position: fixed;
+        height: 100%;
+        width: 200%;
+        transition: left 0.4s ease-in-out;
+        -o-transition: left 0.4s ease-in-out;
+        -ms-transition: left 0.4s ease-in-out;
+        -moz-transition: left 0.4s ease-in-out;
+        -webkit-transition: left 0.4s ease-in-out;
+    }
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    body {
+        background: #333;
+    }
+
+    .pic {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+
+    .morph {
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+        .morph:hover {
+            border-radius: 50%;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+
+    .work {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+    .Jerry {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+    .Tom {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+    }
+
+    .menu li {
+        background-color: red;
+    }
+
+    .morph {
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+        .morph:hover {
+            border-radius: 50%;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+
+    .box {
+        width: 500px;
+        height: 300px;
+        border: 5px solid #333;
+        background-image: url('images/images.png');
+    }
+
+    #panel {
+        position: fixed;
+        background: #444;
+        color: #E0E0E3;
+        height: 100%;
+        width: 300px;
+        left: -300px;
+        transition: left 0.4s ease-in-out;
+        -o-transition: left 0.4s ease-in-out;
+        -ms-transition: left 0.4s ease-in-out;
+        -moz-transition: left 0.4s ease-in-out;
+        -webkit-transition: left 0.4s ease-in-out;
+    }
+
+        #panel h2, #panel p, #filter-panel {
+            padding: 25px;
+        }
+
+            #filter-panel li {
+                padding: 3px 0 1px 0
+            }
+
+            #filter-panel h3 {
+                margin-bottom: 30px
+            }
+
+            #filter-panel .filter-buttons li {
+                display: inline;
+            }
+
+            #filter-panel ul:nth-of-type(1) li:hover {
+                background: transparent
+            }
+
+    #panelCaller {
+        position: absolute;
+        top: 50px;
+        left: 288px;
+        padding: 10px 20px;
+        background: #444;
+    }
+
+    #panel:hover {
+        left: 0px;
+    }
+
+    #filter-panel ul {
+        list-style-type: none;
+        margin: 0px;
+    }
+
+        #filter-panel ul li {
+            list-style-type: none;
+            padding: 10px
+        }
+
+    #filter-panel .filter-buttons {
+        margin: 40px 0 0 40px;
+        width: 100%;
+    }
+
+        #filter-panel .filter-buttons ul {
+            margin-left: -50px;
+        }
+
+    .rotate {
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    }
+</style>
+<html>
+<body style="background-color:darkslategray;">
+
+</body>
+</html><div class="homepage-hero-module">
+    <div class="video-container">
+        <div class="title-container">
+            <div class="headline">
+                <div class="menu">
+                    <a href=#></a>
+
+                    <ul>
+                        <li>
+                            <a asp-action="index" asp-controller="KanbanViewSales">SALES</a>
+                        </li>
+                        <li>
+                            <a asp-action="index" asp-controller="KanbanViewProduct">PRODUCTS</a>
+                        </li>
+                        <li>
+                            <a asp-action="index" asp-controller="KanbanViewProject"> PROJECTS</a>
+                        </li>
+                        <li>
+                            <a asp-action="newindex" asp-controller="MainHome">Index</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="description"></div>
+        </div>
+        <div class="filter"></div>
+        <video autoplay loop class="fillWidth">
+
+            <source src="@Url.Content("~/Video/Abstract%20-%2027726.mp4")" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+        <div class="poster hidden">
+
+        </div>
+    </div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<!-- <div class="debug-point" style="display:block;width:1px;height:1px;background-color:blue"></div> -->
+<script>
+    /*
+    http://en.wikipedia.org/wiki/Circle#Equations
+    d*Pi/180 = r
+    x = OriginX + r*cosT
+    y = OriginY + r*sinT
+    0<=T<=2Pi
+    */
+
+    /** the actual object - start **/
+    function RoundMenu($object, menusize, optionsize, distance, span, offset, ismenuround, isoptionsround, animate, onShow, onHide) {
+        var $ = jQuery;
+        return {
+            menuSize: menusize,
+            optionSize: optionsize,
+            isMenuRound: ismenuround,
+            isOptionsRound: isoptionsround,
+            radius: parseInt(distance),
+            offsetAngle: offset,
+            angle: 0,
+            menuOriginX: 0,
+            menuOriginY: 0,
+            optionsCords: [],
+            optionsVisible: false,
+            init: function () {
+                this.calculateMenuOrigin();
+
+                this.calculateAngleForOptions();
+
+                this.prepareMenuCss();
+
+                this.prepareMenuOptionsCss();
+
+                this.storeCoords();
+
+                this.addListener();
+
+            },
+            calculateMenuOrigin: function () {
+                this.menuOriginX = this.calculateOriginX();
+                this.menuOriginY = this.calculateOriginY();
+            },
+            calculateAngleForOptions: function () {
+                var numberOfOptions = $object.find('> ul > li').length;
+                if (numberOfOptions > 1) {
+                    this.angle = (span / (numberOfOptions - 1));
+                } else {
+                    this.angle = (span / numberOfOptions);
+                }
+            },
+            prepareMenuCss: function () {
+                /* prepare menu - start */
+                $object.css({
+                    "width": this.menuSize,
+                    "height": this.menuSize
+                });
+                $object.find('a').css({
+                    "display": "block",
+                    "width": "100%",
+                    "height": "100%",
+                    "-webkit-tap-highlight-color": "transparent"
+                });
+                //for IE when link clicked....
+                /*$object.find('a').focus(function(){$(this).css({
+                    "background-color": "transparent"
+                });});*/
+                if (this.isMenuRound) {
+                    $object.css("border-radius", "50%");
+                }
+                /* prepare menu - end */
+            },
+            prepareMenuOptionsCss: function () {
+                /* prepare menu options -start */
+                $object.find('> ul > li').css({
+                    "list-style-type": "none",
+                    "width": this.optionSize,
+                    "height": this.optionSize,
+                    "text-align": "center",
+                    "display": "none",
+                    "z-index": "-1"
+                });
+                $object.find('li a').css({
+                    "z-index": "1"
+                });
+                if (this.isOptionsRound) {
+                    $object.find('> ul > li').css("border-radius", "50%");
+                }
+                /* prepare menu options - end */
+            },
+            storeCoords: function () {
+                this.optionsCords = [];
+                var self = this;
+                $object.find('> ul > li').each(function (index) {
+                    $(this).css({
+                        "visibility": "hidden",
+                        "display": "block",
+                        "left": 0,
+                        "top": 0
+                    });
+                    self.optionsCords.push({
+                        index: index,
+                        cords: $(this).offset()
+                    });
+                });
+                this.positionOptions(true);
+                $object.find('> ul > li').css({
+                    "visibility": "visible",
+                    "display": "none"
+                });
+
+            },
+            addListener: function () {
+                var self = this;
+                $object.find(' > a').off('click.round-menu');
+                $object.find(' > a').on('click.round-menu', function (e) {
+                    e.preventDefault();
+                    self.showMenuOptions();
+                });
+            },
+            showMenuOptions: function () {
+                if (!this.optionsVisible) {
+                    $object.find('> ul > li').show();
+                    //this.positionOptions(true);
+                    this.positionOptions(false, animate);
+                } else {
+                    this.positionOptions(true, animate);
+                }
+                this.optionsVisible = !this.optionsVisible;
+            },
+            calculateOriginX: function (select) {
+                return ($object.offset().left + parseInt(this.menuSize) / 2);
+            },
+            calculateOriginY: function (select) {
+                return ($object.offset().top + parseInt(this.menuSize) / 2);
+            },
+            calculateOptionPositionX: function (index) {
+                var calcAngle = (this.angle * index) + parseInt(this.offsetAngle);
+                var posX = (this.menuOriginX + (this.radius * Math.cos((calcAngle * Math.PI / 180))));
+
+                return posX;
+            },
+            calculateOptionPositionY: function (index) {
+                var calcAngle = (this.angle * index) + parseInt(this.offsetAngle);
+                var posY = (this.menuOriginY - (this.radius * Math.sin((calcAngle * Math.PI / 180))));
+
+                return posY;
+            },
+            positionOptions: function (reset, animate) {
+                var self = this;
+
+                $object.find('> ul > li').each(function (index) {
+
+                    var topValue = (reset ? self.menuOriginY : self.calculateOptionPositionY(index)) - parseInt(self.optionSize) / 2;
+                    var leftValue = (reset ? self.menuOriginX : self.calculateOptionPositionX(index)) - parseInt(self.optionSize) / 2;
+
+                    if (animate) {
+                        var offsetLeft = leftValue - self.optionsCords[index].cords.left;
+                        var offsetTop = topValue - self.optionsCords[index].cords.top;
+                        (function () {
+                            $(this).css('z-index', "-1");
+                        }).call(this);
+                        if (!reset) {
+                            $(this).css('visibility', "visible");
+                            $(this).removeClass("round-menu-option-hidden");
+                            $(this).addClass("round-menu-option-visible");
+                        }
+                        $(this).animate({
+                            top: offsetTop,
+                            left: offsetLeft
+                        }, function () {
+                            $(this).css('z-index', (reset ? "-1" : "1"));
+                            if (reset) {
+                                $(this).css('visibility', "hidden");
+                                $(this).removeClass("round-menu-option-visible");
+                                $(this).addClass("round-menu-option-hidden");
+                                if (onHide) {
+                                    onHide(index);
+                                }
+                            } else if (!reset && onShow) {
+                                onShow(index);
+                            }
+                        });
+                    } else {
+                        if (!reset) {
+                            $(this).css('visibility', "visible");
+                            $(this).removeClass("round-menu-option-hidden");
+                            $(this).addClass("round-menu-option-visible");
+                        }
+                        $(this).offset({
+                            top: topValue,
+                            left: leftValue
+                        });
+                        $(this).css('z-index', (reset ? "-1" : "1"));
+                        if (reset) {
+                            $(this).css('visibility', "hidden");
+                            $(this).removeClass("round-menu-option-visible");
+                            $(this).addClass("round-menu-option-hidden");
+                            if (onHide) {
+                                onHide(index);
+                            }
+                        } else if (!reset && onShow) {
+                            onShow(index);
+                        }
+                    }
+                });
+            }
+        }
+    }
+    /** the actual object - end **/
+
+
+    /** create jquery plugin - start **/
+    ;
+    (function ($) {
+
+        $.fn.roundMenu = function (options) {
+            var settings = $.extend({
+                menuSize: "400px",
+                optionSize: "150px",
+                distance: "400px",
+                span: "360",
+                offset: "0",
+                isMenuRound: true,
+                isOptionsRound: true,
+                animate: true,
+                onShow: null,
+                onHide: null
+            }, options);
+
+            var menu = new RoundMenu(
+                this,
+                settings.menuSize,
+                settings.optionSize,
+                settings.distance,
+                settings.span,
+                settings.offset,
+                settings.isMenuRound,
+                settings.isOptionsRound,
+                settings.animate,
+                settings.onShow,
+                settings.onHide);
+            menu.init();
+            $(this).data('round-menu', menu);
+            /** do whatever **/
+
+            return this;
+        };
+    }(jQuery));
+    /** create jquery plugin - end **/
+
+    /** EXAMPLE USAGE **/
+    jQuery(document).ready(function () {
+        jQuery('.menu').roundMenu({
+            /*
+            menuSize: "50px",
+            optionSize: "30px",
+            distance: "70px",
+            span: "180",
+            offset: "0",
+            isMenuRound: true,
+            isOptionsRound: true,
+            animate:true,
+            onShow:function(i){alert("showed :"+i);},
+            onHide:function(i){alert("hidden :"+i);}*/
+
+        });
+        /*
+        //drag and drop example - jquery ui required
+        jQuery(".menu").draggable({
+            start:function(){
+                $('.menu a').off('click.round-menu');
+            },
+            stop:function(){
+                setTimeout(function(){$('.menu').data('round-menu').addListener();},1);
+            }
+        });*/
+
+        /*$('.debug-point').offset({
+            top: $('.menu').menuOriginY,
+            left: $('.menu').menuOriginX
+        });*/
+    });
+/* api calls */
+    /*
+    //for example if the selector is .menu
+    $('.menu').roundMenu();//to refresh with new options any time
+    $('.menu a').off('click.round-menu');//turns off specific click listener
+    $(".menu").data("round-menu").addListener();//add listener again
+    $('.menu').data('round-menu').showMenuOptions(); //shows menu options
+    */
+
+    $(document).ready(function () {
+
+        // Resive video
+        scaleVideoContainer();
+
+        initBannerVideoSize('.video-container .poster img');
+        initBannerVideoSize('.video-container .filter');
+        initBannerVideoSize('.video-container video');
+
+        $(window).on('resize', function () {
+            scaleVideoContainer();
+            scaleBannerVideoSize('.video-container .poster img');
+            scaleBannerVideoSize('.video-container .filter');
+            scaleBannerVideoSize('.video-container video');
+        });
+
+    });
+
+    /** Reusable Functions **/
+    /********************************************************************/
+
+    function scaleVideoContainer() {
+
+        var height = $(window).height();
+        var unitHeight = parseInt(height) + 'px';
+        $('.homepage-hero-module').css('height', unitHeight);
+
+    }
+
+    function initBannerVideoSize(element) {
+
+        $(element).each(function () {
+            $(this).data('height', $(this).height());
+            $(this).data('width', $(this).width());
+        });
+
+        scaleBannerVideoSize(element);
+
+    }
+
+    function scaleBannerVideoSize(element) {
+
+        var windowWidth = $(window).width(),
+            windowHeight = $(window).height(),
+            videoWidth,
+            videoHeight;
+
+        console.log(windowHeight);
+
+        $(element).each(function () {
+            var videoAspectRatio = $(this).data('height') / $(this).data('width'),
+                windowAspectRatio = windowHeight / windowWidth;
+
+            if (videoAspectRatio > windowAspectRatio) {
+                videoWidth = windowWidth;
+                videoHeight = videoWidth * videoAspectRatio;
+                $(this).css({ 'top': -(videoHeight - windowHeight) / 2 + 'px', 'margin-left': 0 });
+            } else {
+                videoHeight = windowHeight;
+                videoWidth = videoHeight / videoAspectRatio;
+                $(this).css({ 'margin-top': 0, 'margin-left': -(videoWidth - windowWidth) / 2 + 'px' });
+            }
+
+            $(this).width(videoWidth).height(videoHeight);
+
+            $('.homepage-hero-module .video-container video').addClass('fadeIn animated');
+
+
+        });
+    }</script>

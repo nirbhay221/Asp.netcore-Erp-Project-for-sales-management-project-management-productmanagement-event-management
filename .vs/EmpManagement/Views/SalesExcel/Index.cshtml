@@ -1,0 +1,85 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @ViewBag.result
+    <br />
+    <form method="post" enctype="multipart/form-data" asp-controller="salesexcel" asp-action="importXML">
+        <input type="file" name="xmlFile" />
+        <input type="submit" name="Import" />
+
+
+        <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    </form>
+    @if (ViewBag.Sales != null)
+    {
+
+        <table border="1">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Rep</th>
+                <th>SalesStage</th>
+                <th>Priority</th>
+                <th>ExpectedCloseDate</th>
+                <th>ForeCastValue</th>
+                <th>Probability</th>
+                <th>LastContact</th>
+                <th>SignedSalesValue</th>
+                <th>Quantity</th>
+                <th>Notes</th>
+
+                <th>Options</th>
+
+            </tr>
+            @foreach (var Sales in ViewBag.Sales)
+            {
+        <tr>
+            <td>@Sales.Id</td>
+            <td>@Sales.Name</td>
+            <td>@Sales.Rep</td>
+            <td>@Sales.SalesStage</td>
+
+            <td>@Sales.Priority</td>
+
+            <td>@Sales.ExpectedCloseDate</td>
+            <td>@Sales.ForeCastValue</td>
+            <td>@Sales.Probability</td>
+            <td>@Sales.LastContact</td>
+            <td>@Sales.SignedContractValue</td>
+            <td>@Sales.Quantity</td>
+
+            <td>@Sales.Notes</td>
+
+            <td>
+                <a asp-controller="Sales" asp-action="edit" asp-route-id="@Sales.Id">Edit</a>
+                |
+                <a asp-controller="Sales" asp-action="delete" asp-route-id="@Sales.Id" onclick="return confirm('Are you sure ?')">Delete</a>
+            </td>
+
+        </tr>
+            }
+        </table>
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

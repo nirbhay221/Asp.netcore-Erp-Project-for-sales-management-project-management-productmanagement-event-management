@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chances xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<chance>
+		<id>p04</id>
+		<name>Name 4</name>
+		<price>400</price>
+		<quantity>4</quantity>
+	</chance>
+	<chance>
+		<id>p02</id>
+		<name>Name 2</name>
+		<price>200</price>
+		<quantity>3</quantity>
+	</chance>
+	<chance>
+		<id>p03</id>
+		<name>Name 3</name>
+		<price>500</price>
+		<quantity>2</quantity>
+	</chance>
+</chances>

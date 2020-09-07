@@ -1,0 +1,95 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+<meta name="viewport" content="width=device-width" />
+<title>Index</title>
+
+<a asp-controller="mainhome" asp-action="newindex">Index</a>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.css" type="text/css" rel="stylesheet" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <br />
+            <div id="bootstrapModalFullCalendar"></div>
+        </div>
+    </div>
+</div>
+<div id="fullCalModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">x</span>
+                    <span class="sr-only">close</span>
+                </button>
+                <h4 id="modalTitle" class="modal-title"></h4>
+
+            </div>
+            <div id="modalBody" class="modal-body"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <a class="btn btn-primary" id="eventUrl" target="_blank">Event Page</a>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.2/moment.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script>
+
+        $(document).ready(function () {
+
+            $('#bootstrapModalFullCalendar').fullCalendar({
+
+                header: {
+                    left: '',
+                    center: 'prev title next',
+                    right: ''
+                },
+                eventclick: function (inventory, jsInventory, view) {
+                    $('#modalTitle').html(inventory.Title);
+                    $('#modalBody').html(inventory.Description);
+                    $('#eventUrl').attr('href', inventory.url);
+                    $('#fullCalModal').modal();
+                    return false;
+
+
+
+                },
+
+                events: '@Url.Action("findall","inventory")'
+
+    });
+
+});
+
+</script>
+
+
+
+
+

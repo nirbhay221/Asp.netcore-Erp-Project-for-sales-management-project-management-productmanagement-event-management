@@ -1,0 +1,158 @@
+﻿@model EmpManagement.Models.Sales
+    <div class="row">
+
+        <a asp-controller="mainhome" asp-action="newindex">Index</a>
+        <div class="col-xs-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <a asp-controller="Evaluation" asp-action="index">Evaluation</a>
+                </div>
+                <div class="panel-body">
+                    <div id="one">
+                        &nbsp;
+
+                        @foreach (var item in ViewBag.Evaluation)
+                        {
+                            <div class="alert alert-success" role="alert">@item.Name @item.SalesStage</div>
+                            <a asp-controller="KanbanViewSales" asp-action="arrowaceone" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                            <a asp-controller="KanbanViewSales" asp-action="arrowacetwo" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="Negotiation" asp-action="index">Negotiation</a>
+        </div>
+        <div class="panel-body">
+            <div id="two">
+                &nbsp;
+
+                @foreach (var item in ViewBag.Negotiation)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.SalesStage</div>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowacethree" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowacefour" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="Contract" asp-action="index">Contract</a>
+        </div>
+        <div class="panel-body">
+            <div id="three">
+                &nbsp;
+
+                @foreach (var item in ViewBag.Contract)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.SalesStage</div>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowacefive" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowacesix" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="ClosedWon" asp-action="index">ClosedWon</a>
+        </div>
+        <div class="panel-body">
+            <div id="four">
+                &nbsp;
+
+                @foreach (var item in ViewBag.ClosedWon)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.SalesStage</div>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowaceseven" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowaceeight" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="ClosedLost" asp-action="index">ClosedLost</a>
+        </div>
+        <div class="panel-body">
+            <div id="five">
+                &nbsp;
+
+                @foreach (var item in ViewBag.ClosedLost)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.SalesStage</div>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowacenine" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewSales" asp-action="arrowaceten" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .gu-mirror {
+        position: fixed !important;
+        margin: 0 !important;
+        z-index: 9999 !important;
+        opacity: 0.8;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+        filter: alpha(opacity=80);
+        transform: skewX(-5deg);
+    }
+
+    .gu-hide {
+        display: none !important;
+    }
+
+    .gu-unselectable {
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important;
+    }
+
+    .gu-transit {
+        opacity: 0.2;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+        filter: alpha(opacity=20);
+    }
+     body {
+            background: url('http://i.imgur.com/Eor57Ae.jpg') no-repeat fixed center center;
+            background-size: cover;
+            font-family: Montserrat;
+        }
+</style>
+<script>https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js</script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        dragula([
+            document.querySelector('#one'),
+            document.querySelector('#two'),
+            document.querySelector('#three'),
+            document.querySelector('#four'),
+            document.querySelector('#five')
+        ]);
+    });
+</script>

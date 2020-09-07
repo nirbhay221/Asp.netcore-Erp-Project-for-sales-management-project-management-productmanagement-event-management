@@ -1,0 +1,1052 @@
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\ashish\source\repos\EmpManagement\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProduct\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchSalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchTechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Eida.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Medical.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Salary.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\NewIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployeeExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\CreateEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\EventExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployeeExcel\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\EventExcel\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAdd.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchSalesIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchTechnicalIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAdd.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProduct\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProject\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewSales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\NewIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Eida.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Medical.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Salary.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\CreateEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployeeExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\EventExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchSalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchTechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProduct\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\NewIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Eida.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Medical.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Salary.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\CreateEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Timeline.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployeeExcel\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\EventExcel\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAdd.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchSalesIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchTechnicalIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAdd.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByDescription.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortById.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByName.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByPriority.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByRole.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByStatus.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProduct\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProject\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewSales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\NewIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Eida.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Medical.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Salary.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Timeline.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\CreateEdit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\SalesExcel\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewNextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\ChangeAdd.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\NextNextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\NextIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Index.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Add.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Edit.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\SearchIndex.g.cshtml.cs
+C:\Users\NirbhayMalhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.deps.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.runtimeconfig.dev.json
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\bin\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csprojAssemblyReference.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfoInputs.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.AssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.input.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.TagHelpers.output.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorCoreGenerate.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployeeExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AlternateEmployee\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProduct\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AltProject\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\AtRisk\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Behind\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Blocked\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Client\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedLost\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClosedWon\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\ChangeAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Coast\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Complete\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Contract\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Evaluation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\EventExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Event\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Inventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Invoice\NewNextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\AddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\EditSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SalesSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchSalesIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SearchTechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\SortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAdd.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalAddSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByDescription.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortById.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByName.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByPriority.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByRole.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Jacket\TechnicalSortByStatus.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProduct\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\KanbanViewSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\MainHome\NewIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Negotiation\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Eida.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Medical.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Salary.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Notification\Timeline.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\NotInInventory\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\OnTrack\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductClient\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProductSales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\ProjectClient\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\CreateEdit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\NextNextNextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedForProject\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\RentedFromClients\NextNextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\SalesExcel\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Sales\SearchIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\Timeline\NextIndex.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Add.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\UpNext\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.RazorTargetAssemblyInfo.cs
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.Views.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.dll
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.pdb
+C:\Users\Nirbhay Malhotra\Downloads\Security (7)\Security (6)\Security (5)\Security (2)\Security\EmpManagement\obj\Debug\netcoreapp2.2\EmpManagement.csproj.CopyComplete

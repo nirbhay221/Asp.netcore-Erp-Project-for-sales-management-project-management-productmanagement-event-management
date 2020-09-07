@@ -1,0 +1,43 @@
+﻿@using EmpManagement.Controllers
+@model IEnumerable<EmpManagement.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Products Page</h2>
+
+<p>
+    <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    <a asp-action="Create" class="btn btn-success">+Add Products</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>Options</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @if (!MandatoryProducts.Products.Contains(item.Name))
+                {
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                    @*<a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Szczegóły</a>*@
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                }
+                else
+                {
+                    <span>Not Working</span>
+                }
+
+            </td>
+        </tr>
+    }
+</table>

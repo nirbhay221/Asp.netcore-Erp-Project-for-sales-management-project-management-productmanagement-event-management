@@ -1,0 +1,180 @@
+﻿@model EmpManagement.Models.Complete
+    <div class="row">
+
+        <a asp-controller="mainhome" asp-action="newindex">Index</a>
+        <div class="col-xs-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <a asp-controller="UpNext" asp-action="index">UpNext</a>
+                </div>
+                <div class="panel-body">
+                    <div id="one">
+                        &nbsp;
+
+                        @foreach (var item in ViewBag.UpNext)
+                        {
+                            <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowone" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowtwo" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <a asp-controller="OnTrack" asp-action="index">OnTrack</a>
+                </div>
+                <div class="panel-body">
+                    <div id="two">
+                        &nbsp;
+                        @foreach (var item in ViewBag.OnTrack)
+                        {
+                            <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowthree" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowfour" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <a asp-controller="Behind" asp-action="index">Behind</a>
+                </div>
+                <div class="panel-body">
+                    <div id="three">
+                        &nbsp;
+                        @foreach (var item in ViewBag.Behind)
+                        {
+                            <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowfive" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                            <a asp-controller="KanbanViewProject" asp-action="arrowsix" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="AtRisk" asp-action="index">AtRisk</a>
+        </div>
+        <div class="panel-body">
+            <div id="four">
+                &nbsp;
+                @foreach (var item in ViewBag.AtRisk)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                    <a asp-controller="KanbanViewProject" asp-action="arrowseven" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewProject" asp-action="arroweight" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <a asp-controller="Blocked" asp-action="index">Blocked</a>
+        </div>
+        <div class="panel-body">
+            <div id="five">
+                &nbsp;
+                @foreach (var item in ViewBag.Blocked)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                    <a asp-controller="KanbanViewProject" asp-action="arrownine" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewProject" asp-action="arrowten" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="col-xs-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h3 class="panel-title">
+                <a asp-controller="Complete" asp-action="index">Complete</a>
+            </h3>
+        </div>
+        <div class="panel-body">
+            <div id="six">
+                &nbsp;
+                @foreach (var item in ViewBag.Complete)
+                {
+                    <div class="alert alert-success" role="alert">@item.Name @item.Status</div>
+                    <a asp-controller="KanbanViewProject" asp-action="arroweleven" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move ?')"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+                    <a asp-controller="KanbanViewProject" asp-action="arrowtwelve" asp-route-id="@item.Id" onclick="return confirm('Are you sure you want to move  ?')"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+<html>
+<body>
+
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+</body></html>
+<style>
+     body {
+            background: url('http://i.imgur.com/Eor57Ae.jpg') no-repeat fixed center center;
+            background-size: cover;
+            font-family: Montserrat;
+        }
+    .gu-mirror {
+        position: fixed !important;
+        margin: 0 !important;
+        z-index: 9999 !important;
+        opacity: 0.8;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+        filter: alpha(opacity=80);
+        transform: skewX(-5deg);
+    }
+
+    .gu-hide {
+        display: none !important;
+    }
+
+    .gu-unselectable {
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important;
+    }
+
+    .gu-transit {
+        opacity: 0.2;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+        filter: alpha(opacity=20);
+    }
+</style>
+<script>https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js</script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        dragula([
+            document.querySelector('#one'),
+            document.querySelector('#two'),
+            document.querySelector('#three'),
+            document.querySelector('#four'),
+            document.querySelector('#five'),
+            document.querySelector('#six')
+        ]);
+    });
+</script>

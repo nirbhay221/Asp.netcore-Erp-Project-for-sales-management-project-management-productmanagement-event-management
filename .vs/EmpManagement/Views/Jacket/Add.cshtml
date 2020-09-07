@@ -1,0 +1,75 @@
+﻿@model EmpManagement.Models.Jacket
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+
+</head>
+<body>
+    @Html.Partial("Index.cshtml", Model)
+
+    <form method="post" asp-controller="Jacket" asp-action="add">
+        <table>
+            <tr>
+                <td>Id</td>
+                <td>
+                    <input type="text" asp-for="Id" required="required" />
+                </td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td>
+                    <input type="text" asp-for="Name" required="required" />
+                </td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td>
+                    <input type="text" asp-for="Description" required="required" />
+                </td>
+            </tr>
+            <tr>
+                <td>Status</td>
+                <td>
+                    <input type="text" asp-for="Status" required="required" />
+
+                </td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Priority</td>
+                <td>
+                    <input type="text" asp-for="Priority" required="required" />
+
+                </td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Role</td>
+                <td>
+                    <input type="text" asp-for="Role" required="required" />
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <input type="submit" Value="Save" />
+                </td>
+            </tr>
+
+        </table>
+
+
+
+    </form>
+
+
+
+</body>
+</html>

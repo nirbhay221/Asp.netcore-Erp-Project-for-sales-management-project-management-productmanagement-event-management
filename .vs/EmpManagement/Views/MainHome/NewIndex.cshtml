@@ -1,0 +1,569 @@
+﻿<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu Effects</title>
+    <link rel="stylesheet" href="http://louisremi.github.com/menu-effects/css/style.css" />
+</head>
+<body>
+    <div id="main" role="main">
+        <ul id="menu2" class="menu">
+            <li tabindex="0">
+                Employee
+                <ul class="submenu helix">
+                    <li><a asp-action="index" asp-controller="MainHome">Home Page</a></li>
+                    <li><a asp-action="index" asp-controller="AlternateEmployee">Employee List</a></li>
+                    <li><a asp-action="add" asp-controller="AlternateEmployee">Add Employee</a></li>
+                    <li><a asp-action="nextindex" asp-controller="notification">Notifications</a></li>
+                    <li><a asp-action="index" asp-controller="AlternateEmployeeExcel">Excel Feature</a></li>
+                    <li><a asp-action="index" asp-controller="Timeline">Timeline Feature</a></li>
+
+                    <li><a asp-action="nextindex" asp-controller="Timeline">Timeline Index</a></li>
+                    <li><a asp-action="add" asp-controller="Timeline">Timeline Add Feature</a></li>
+                    <li><a asp-controller="ExcelExportEmployee" asp-action="Excel">Download Excel</a></li>
+                    <li><a asp-controller="ExcelExportEmployee" asp-action="csv">Download CSV</a></li>
+
+                </ul>
+            </li>
+            <li tabindex="0">
+                KanbanViews
+                <ul class="submenu wave">
+                    <li><a asp-controller="KanbanViewProject" asp-action="index">Kanban View - Project</a></li>
+                    <li><a asp-controller="KanbanViewProduct" asp-action="index">Kanban View - Product</a></li>
+                    <li><a asp-controller="KanbanViewSales" asp-action="index">Kanban View - Sales</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                ToDoList
+                <ul class="submenu fan">
+                    <li><a asp-controller="Jacket" asp-action="index">Main ToDoList</a></li>
+                    <li><a asp-controller="Jacket" asp-action="add">Add ToDoList</a></li>
+                    <li><a asp-controller="Jacket" asp-action="salesindex">Sales ToDoList</a></li>
+                    <li><a asp-controller="Jacket" asp-action="salesadd"> Add Sales ToDoList</a></li>
+                    <li><a asp-controller="Jacket" asp-action="technicalindex">Technical ToDoList</a></li>
+                    <li><a asp-controller="Jacket" asp-action="technicaladd">Add Technical ToDoList</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                Sales
+                <ul class="submenu papercut">
+                    <li><a asp-controller="Evaluation" asp-action="index">Evaluation</a></li>
+                    <li><a asp-controller="Negotiation" asp-action="index">Negotiation</a></li>
+                    <li><a asp-controller="Contract" asp-action="index">Contract</a></li>
+                    <li><a asp-controller="ClosedWon" asp-action="index">Closed-Won</a></li>
+                    <li><a asp-controller="ClosedLost" asp-action="index">Closed-Lost</a></li>
+                    <li><a asp-controller="ProductSales" asp-action="index">Project Sales</a></li>
+
+                    <li><a asp-controller="Invoice" asp-action="index">Project Sales Linked List</a></li>
+                    <li><a asp-controller="Sales" asp-action="index">Sales</a></li>
+                    <li><a asp-controller="SalesExcel" asp-action="index">Excel Feature</a></li>
+                    <li><a asp-controller="ExcelExportSales" asp-action="Excel">Download Excel</a></li>
+                    <li><a asp-controller="ExcelExportSales" asp-action="csv">Download CSV</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                Project
+                <ul class="submenu fly">
+                    <li><a asp-controller="AltProject" asp-action="index">Project List</a></li>
+                    <li><a asp-controller="Projects" asp-action="index">Add Projects</a></li>
+                    <li><a asp-controller="Complete" asp-action="index">Completed Projects</a></li>
+                    <li><a asp-controller="AtRisk" asp-action="index">Projects AtRisk</a></li>
+                    <li><a asp-controller="Behind" asp-action="index">Delayed Projects</a></li>
+                    <li><a asp-controller="Blocked" asp-action="index">Blocked Projects</a></li>
+                    <li><a asp-controller="OnTrack" asp-action="index">Projects OnTrack</a></li>
+                    <li><a asp-controller="UpNext" asp-action="index">UpNext </a></li>
+                </ul>
+            </li>
+        </ul><!-- /#menu2 -->
+
+        <ul id="menu1" class="menu">
+            <li tabindex="0">
+                Product
+                <ul class="submenu blind">
+
+
+                    <li><a asp-controller="AltProduct" asp-action="index">Product List</a></li>
+                    <li><a asp-controller="Products" asp-action="index">Products List</a></li>
+                    <li><a asp-controller="Inventory" asp-action="index">Inventory</a></li>
+                    <li><a asp-controller="NotInInventory" asp-action="index">NotInInventory</a></li>
+                    <li><a asp-controller="rentedforproject" asp-action="nextnextnextnextindex">RentedForProjects</a></li>
+                    <li><a asp-controller="RentedFromClients" asp-action="index">RentedFromClients</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                Notification
+                <ul class="submenu venitian">
+                    <li><a asp-controller="notification" asp-action="eida">EIDA </a></li>
+                    <li><a asp-controller="notification" asp-action="index">PASSPORT</a></li>
+                    <li><a asp-controller="notification" asp-action="medical">MEDICAL</a></li>
+                    <li><a asp-controller="notification" asp-action="salary">SALARY</a></li>
+                    <li><a asp-controller="notification" asp-action="nextindex">Notification List</a></li>
+
+                </ul>
+            </li>
+            <li tabindex="0">
+                Invoice
+                <ul class="submenu jaws">
+                    <li> <a asp-controller="RentedForProject" asp-action="index">pdf</a></li>
+                    <li><a asp-controller="RentedForProject" asp-action="nextnextnextindex">Products List</a></li>
+
+                    <li><a asp-controller="Cart" asp-action="index">Cart List</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                Event
+                <ul class="submenu fence">
+                    <li><a asp-controller="event" asp-action="nextindex">Event List</a></li>
+
+                    <li><a asp-controller="event" asp-action="index">Calendar</a></li>
+                    <li><a asp-controller="event" asp-action="add">Event Add</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Excel">Download Excel</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="csv">Download CSV</a></li>
+
+                    <li><a asp-controller="eventexcel" asp-action="index">Excel Feature</a></li>
+                </ul>
+            </li>
+            <li tabindex="0">
+                Sales
+                <ul class="submenu zipper">
+
+                    <li><a asp-controller="sales" asp-action="index">SalesList</a></li>
+                    <li><a asp-controller="sales" asp-action="add">Sales Add</a></li>
+                    <li><a asp-controller="client" asp-action="index">Client List</a></li>
+                    <li><a asp-controller="projectclient" asp-action="index">Project Client List</a></li>
+                    <li><a asp-controller="productclient" asp-action="index">Product Client List</a></li>
+
+                    <li><a asp-controller="invoice" asp-action="newindex">Project Client Linked List</a></li>
+                    <li><a asp-controller="invoice" asp-action="newnextindex">Product Client Linked List</a></li>
+                    <li><a asp-controller="coast" asp-action="add">Drag and Drop List</a></li>
+                    <li><a asp-controller="invoice" asp-action="newnextnextindex">Drag and Drop Linked List</a></li>
+                </ul>
+            </li>
+        </ul><!-- /#menu1 -->
+    </div>
+</body>
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<style>
+    /*
+    * Menu Effects: A collection of CSS3 menu effects (degrades gracefully in IE8).
+    *
+    * Don't hesitate to create new effects and remove the ones you don't need.
+    *
+    * latest version and complete README available on Github:
+    * https://github.com/louisremi/menu-effects
+    *
+    * Copyright 2012
+    * Licensed under the MIT license.
+    *
+    * Are you using this in a paid work?
+    * Send me music http://www.amazon.co.uk/wishlist/HNTU0468LQON
+    *
+    */
+    body {
+        background: url('http://i.imgur.com/Eor57Ae.jpg') no-repeat fixed center center;
+        background-size: cover;
+        font-family: Montserrat;
+    }
+    .menu, .menu ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .menu ul {
+            margin: 0;
+        }
+
+        .menu > li {
+            position: relative;
+            display: inline-block;
+            outline: 0;
+        }
+
+    .submenu {
+        position: absolute;
+        left: 0;
+        top: 100%;
+        z-index: 0;
+        overflow: hidden;
+        max-height: 0;
+        /* The transition-delay prevents the menu to disappear before the transition is run backward
+      * It's ~= length of the animation (.6s) + highest item transition delay (466ms) */
+        -webkit-transition: max-height 1ms linear 1s;
+        -moz-transition: max-height 1ms linear 1s;
+        /* A .submenu should be only revealed when hovering the .menu */
+        pointer-events: none;
+    }
+
+    .menu > li:hover .submenu, .menu > li:focus .submenu {
+        pointer-events: auto;
+        z-index: 10;
+        max-height: 2000px;
+        -webkit-transition: none;
+        -moz-transition: none;
+    }
+
+        /* Progressive Anim
+    * ==================================================================
+    * This is a lot of redundant code but the result is worth it
+    * This should be edited for menus with more or much less than 8 items
+    */
+
+        /* forward */
+        .menu > li:hover .submenu li:nth-child(1) {
+            -webkit-transition-delay: 0s;
+            -moz-transition-delay: 0s;
+            -ms-transition-delay: 0s;
+            -o-transition-delay: 0s;
+            transition-delay: 0s;
+        }
+
+        .menu > li:hover .submenu li:nth-child(2) {
+            -webkit-transition-delay: 66ms;
+            -moz-transition-delay: 66ms;
+            -ms-transition-delay: 66ms;
+            -o-transition-delay: 66ms;
+            transition-delay: 66ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(3) {
+            -webkit-transition-delay: 133ms;
+            -moz-transition-delay: 133ms;
+            -ms-transition-delay: 133ms;
+            -o-transition-delay: 133ms;
+            transition-delay: 133ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(4) {
+            -webkit-transition-delay: 200ms;
+            -moz-transition-delay: 200ms;
+            -ms-transition-delay: 200ms;
+            -o-transition-delay: 200ms;
+            transition-delay: 200ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(5) {
+            -webkit-transition-delay: 266ms;
+            -moz-transition-delay: 266ms;
+            -ms-transition-delay: 266ms;
+            -o-transition-delay: 266ms;
+            transition-delay: 266ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(6) {
+            -webkit-transition-delay: 333ms;
+            -moz-transition-delay: 333ms;
+            -ms-transition-delay: 333ms;
+            -o-transition-delay: 333ms;
+            transition-delay: 333ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(7) {
+            -webkit-transition-delay: 400ms;
+            -moz-transition-delay: 400ms;
+            -ms-transition-delay: 400ms;
+            -o-transition-delay: 400ms;
+            transition-delay: 400ms;
+        }
+
+        .menu > li:hover .submenu li:nth-child(8) {
+            -webkit-transition-delay: 466ms;
+            -moz-transition-delay: 466ms;
+            -ms-transition-delay: 466ms;
+            -o-transition-delay: 466ms;
+            transition-delay: 466ms;
+        }
+
+    /* backward */
+    .submenu li:nth-child(1) {
+        -webkit-transition-delay: 466ms;
+        -moz-transition-delay: 466ms;
+        -ms-transition-delay: 466ms;
+        -o-transition-delay: 466ms;
+        transition-delay: 466ms;
+    }
+
+    .submenu li:nth-child(2) {
+        -webkit-transition-delay: 400ms;
+        -moz-transition-delay: 400ms;
+        -ms-transition-delay: 400ms;
+        -o-transition-delay: 400ms;
+        transition-delay: 400ms;
+    }
+
+    .submenu li:nth-child(3) {
+        -webkit-transition-delay: 333ms;
+        -moz-transition-delay: 333ms;
+        -ms-transition-delay: 333ms;
+        -o-transition-delay: 333ms;
+        transition-delay: 333ms;
+    }
+
+    .submenu li:nth-child(4) {
+        -webkit-transition-delay: 266ms;
+        -moz-transition-delay: 266ms;
+        -ms-transition-delay: 266ms;
+        -o-transition-delay: 266ms;
+        transition-delay: 266ms;
+    }
+
+    .submenu li:nth-child(5) {
+        -webkit-transition-delay: 200ms;
+        -moz-transition-delay: 200ms;
+        -ms-transition-delay: 200ms;
+        -o-transition-delay: 200ms;
+        transition-delay: 200ms;
+    }
+
+    .submenu li:nth-child(6) {
+        -webkit-transition-delay: 133ms;
+        -moz-transition-delay: 133ms;
+        -ms-transition-delay: 133ms;
+        -o-transition-delay: 133ms;
+        transition-delay: 133ms;
+    }
+
+    .submenu li:nth-child(7) {
+        -webkit-transition-delay: 66ms;
+        -moz-transition-delay: 66ms;
+        -ms-transition-delay: 66ms;
+        -o-transition-delay: 66ms;
+        transition-delay: 66ms;
+    }
+
+    .submenu li:nth-child(8) {
+        -webkit-transition-delay: 0s;
+        -moz-transition-delay: 0s;
+        -ms-transition-delay: 0s;
+        -o-transition-delay: 0s;
+        transition-delay: 0s;
+    }
+
+    /* Default
+    ================================================================= */
+    .submenu li {
+        opacity: 0;
+        -webkit-transition: opacity .4s, -webkit-transform .6s, max-height .6s;
+        -moz-transition: opacity .4s, -moz-transform .6s, max-height .6s;
+        -ms-transition: opacity .4s, -ms-transform .6s, max-height .6s;
+        -o-transition: opacity .4s, -o-transform .6s, max-height .6s;
+        transition: opacity .4s, transform .6s, max-height .6s;
+    }
+
+    .menu > li:hover .submenu li, .menu > li:focus .submenu li {
+        opacity: 1;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+    }
+
+    /* Helix
+    ================================================================= */
+    .helix {
+        -webkit-perspective: 400px;
+        -moz-perspective: 400px;
+        -ms-perspective: 400px;
+        -o-perspective: 400px;
+        perspective: 400px;
+    }
+
+        .helix li {
+            -webkit-transform: rotateY(90deg);
+            -moz-transform: rotateY(90deg);
+            -ms-transform: rotateY(90deg);
+            -o-transform: rotateY(90deg);
+            transform: rotateY(90deg);
+        }
+
+    /* Wave
+    ================================================================= */
+    .wave li {
+        -webkit-transform-origin: 0% 0%;
+        -moz-transform-origin: 0% 0%;
+        -ms-transform-origin: 0% 0%;
+        -o-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+        -webkit-transform: skewY(-90deg);
+        -moz-transform: skewY(-90deg);
+        -ms-transform: skewY(-90deg);
+        -o-transform: skewY(-90deg);
+        transform: skewY(-90deg);
+    }
+
+    /* Fan
+    ================================================================= */
+    .fan li {
+        -webkit-transform-origin: 0% 0%;
+        -moz-transform-origin: 0% 0%;
+        -ms-transform-origin: 0% 0%;
+        -o-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+
+    /* Papercut
+    ================================================================= */
+    .papercut {
+        -webkit-perspective: 600px;
+        -moz-perspective: 600px;
+        -ms-perspective: 600px;
+        -o-perspective: 600px;
+        perspective: 600px;
+        -webkit-perspective-origin: 0% 0%;
+        -moz-perspective-origin: 0% 0%;
+        -ms-perspective-origin: 0% 0%;
+        -o-perspective-origin: 0% 0%;
+        perspective-origin: 0% 0%;
+    }
+
+        .papercut li {
+            -webkit-transform-origin: 0% 0%;
+            -moz-transform-origin: 0% 0%;
+            -ms-transform-origin: 0% 0%;
+            -o-transform-origin: 0% 0%;
+            transform-origin: 0% 0%;
+            -webkit-transform: skewY(30deg);
+            -moz-transform: skewY(30deg);
+            -ms-transform: skewY(30deg);
+            -o-transform: skewY(30deg);
+            transform: skewY(30deg);
+        }
+
+    /* Fly
+    ================================================================= */
+    .fly {
+        -webkit-perspective: 400px;
+        -moz-perspective: 400px;
+        -ms-perspective: 400px;
+        -o-perspective: 400px;
+        perspective: 400px;
+    }
+
+        .fly li {
+            -webkit-transform-origin: 50% 50% -50px;
+            -moz-transform-origin: 50% 50% -50px;
+            -ms-transform-origin: 50% 50% -50px;
+            -o-transform-origin: 50% 50% -50px;
+            transform-origin: 50% 50% -50px;
+            -webkit-transform: rotateX( -180deg );
+            -moz-transform: rotateX( -180deg );
+            -ms-transform: rotateX( -180deg );
+            -o-transform: rotateX( -180deg );
+            transform: rotateX( -180deg );
+        }
+
+    /* Blind
+    ================================================================= */
+    .blind li {
+        max-height: 0;
+    }
+
+    .menu > li:hover .blind li, .menu > li:focus .blind li {
+        /* This should be changed to the normal height of list-items */
+        max-height: 30px;
+    }
+
+    /* Venitian
+    ================================================================= */
+    .venitian li {
+        -webkit-transform-origin: 50% 0;
+        -moz-transform-origin: 50% 0;
+        -ms-transform-origin: 50% 0;
+        -o-transform-origin: 50% 0;
+        transform-origin: 50% 0;
+        -webkit-transform: scale(1,0);
+        -moz-transform: scale(1,0);
+        -ms-transform: scale(1,0);
+        -o-transform: scale(1,0);
+        transform: scale(1,0);
+    }
+
+    /* Jaws
+    ================================================================= */
+    .jaws li {
+        -webkit-transform-origin: 50% -100px;
+        -moz-transform-origin: 50% -100px;
+        -ms-transform-origin: 50% -100px;
+        -o-transform-origin: 50% -100px;
+        transform-origin: 50% -100px;
+    }
+
+        .jaws li:nth-child(odd) {
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+        }
+
+        .jaws li:nth-child(even) {
+            -webkit-transform: rotate(-90deg);
+            -moz-transform: rotate(-90deg);
+            -ms-transform: rotate(-90deg);
+            -o-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+        }
+
+    /* Fence
+    ================================================================= */
+    .fence {
+        -webkit-perspective: 600px;
+        -moz-perspective: 600px;
+        -ms-perspective: 600px;
+        -o-perspective: 600px;
+        perspective: 600px;
+    }
+
+        .fence li:nth-child(odd) {
+            -webkit-transform-origin: 0 50%;
+            -moz-transform-origin: 0 50%;
+            -ms-transform-origin: 0 50%;
+            -o-transform-origin: 0 50%;
+            transform-origin: 0 50%;
+            -webkit-transform: rotateY(90deg);
+            -moz-transform: rotateY(90deg);
+            -ms-transform: rotateY(90deg);
+            -o-transform: rotateY(90deg);
+            transform: rotateY(90deg);
+        }
+
+        .fence li:nth-child(even) {
+            -webkit-transform-origin: 100% 50%;
+            -moz-transform-origin: 100% 50%;
+            -ms-transform-origin: 100% 50%;
+            -o-transform-origin: 100% 50%;
+            transform-origin: 100% 50%;
+            -webkit-transform: rotateY(-90deg);
+            -moz-transform: rotateY(-90deg);
+            -ms-transform: rotateY(-90deg);
+            -o-transform: rotateY(-90deg);
+            transform: rotateY(-90deg);
+        }
+
+    /* Zipper
+    ================================================================= */
+    .zipper li:nth-child(odd) {
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -o-transform: translateX(-100%);
+        transform: translateX(-100%);
+    }
+
+    .zipper li:nth-child(even) {
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -o-transform: translateX(100%);
+        transform: translateX(100%);
+    }
+</style>

@@ -1,0 +1,356 @@
+﻿
+@model EmpManagement.Models.Coast
+<style>
+
+    .door {
+        display: inline-block;
+        width: 50px;
+        height: 120px;
+        border: 1px solid;
+        margin: 5px;
+    }
+
+    .color {
+        float: right;
+        width: 20px;
+        height: 20px;
+    }
+
+    .white {
+        background: #fff;
+    }
+
+    #black {
+        background: #000;
+    }
+
+    #blue {
+        clear: left;
+        background: royalblue;
+    }
+</style>
+<div id="target">
+    Click here
+</div>
+<div id="first" style="display:none;">
+    First Button
+
+</div>
+<div id="newone" style="display:none;">
+    First Button
+
+</div><div id="newtwo" style="display:none;">
+    First Button
+
+</div><div id="newthree" style="display:none;">
+    First Button
+
+</div><div id="newfour" style="display:none;">
+    First Button
+
+</div>
+
+
+<div id="neweigth" style="display:none;">
+    First Button
+
+</div>
+<div id="second" style="display:none;">
+    Second Button
+</div>
+<div id="third" style="display:none;">
+    Third Button
+</div>
+<div id="fourth" style="display:none;">
+    Fourth Button
+</div>
+<div id="fifth" style="display:none;">
+    Fifth Button
+</div>
+<div id="sixth" style="display:none;">
+    Sixth Button
+</div>
+<div id="seventh" style="display:none;">
+    seventh Button
+</div><div id="eigth">
+    eigth Button
+</div>
+
+<div id="tenth" style="display:none;">
+    tenth Button
+</div>
+<div id="eleventh" style="display:none;">
+    eleventh Button
+</div>
+<div class="container" id="container">
+
+    <form method="post" asp-controller="Coast" id="form1">
+        <table id="tabletest">
+            @foreach (var CoastStatus in @ViewBag.CoastStatus)
+            {
+                <tr>
+
+                    <td>@CoastStatus.Id</td>
+
+                    <td>@CoastStatus.Name</td>
+
+
+
+                </tr>
+            }
+
+
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <button type="submit" Value="Save" onclick="submitMe('abc','event1','event2','event3')" asp-action="add" id="submit" style="display:none;" />
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="text" asp-for="Id" asp-action="add" id="event1" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    <input type="text" asp-for="Status" asp-action="add" id="abc" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+
+
+        </table>
+    </form>
+    <form method="post" asp-controller="Coast" id="form2">
+        <table>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <button type="submit" Value="Save" onclick="submitMe('abc','event1','event2','event3')" asp-action="add" id="submityo" style="display:none;" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" asp-for="Id" asp-action="add" id="event2" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" asp-for="Status" asp-action="add" id="def" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+
+        </table>
+    </form>
+    <form method="post" asp-controller="Coast" id="form3">
+        <table>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <button type="submit" Value="Save" onclick="submitMe('abc','event1','event2','event3')" asp-action="add" id="submitnow" style="display:none;" />
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="text" asp-for="Id" asp-action="add" id="event3" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="text" asp-for="Status" asp-action="add" id="ghi" required="required" style="display:none;" />
+
+                </td>
+            </tr>
+
+
+        </table>
+    </form>
+</div>
+@TempData["buttonval"]
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+<div id="door1" class="door white"></div>
+<div id="door2" class="door white"></div>
+<div id="black" class="color"></div>
+<div id="blue" class="color"></div>
+
+<script>
+    submitForms = function () {
+        document.getElementById("#form1").submit();
+        document.getElementById("#form2").submit();
+
+        document.getElementById("#form3").submit();
+    }
+    $(".color").draggable({
+        revert: true
+    });
+
+    function submitMe(Status, event1, event2, event3) {
+        var value = document.getElementById(Status).value;
+        alert(value);
+        $(value).submit();
+        var value = document.getElementById(event2).value;
+        alert(value);
+        $(value).submit();
+        var value = document.getElementById(event1).value;
+        alert(value);
+        $(value).submit();
+        var value = document.getElementById(event3).value;
+        alert(value);
+        $(value).submit();
+    }
+    $("#tabletest tr").droppable({
+        drop: function (e, ui) {
+            console.log(ui.draggable)
+
+            $(e.currentTarget).children('td, th').css("background-color", ui.draggable.attr("id"));
+            $(this).css("background-color", ui.draggable.attr("id"));
+        }
+    });
+
+    $("#first").click(function () {
+        $('#abc').val('Important');
+
+    });
+    $("#second").click(function () {
+        $('#def').val('Important');
+
+
+
+    });
+    $("#newone").click(function () {
+        $('#ghi').val('Important');
+
+    });
+
+    $("#third").click(function () {
+        $('#abc').val('Main');
+
+
+
+    }); $("#fourth").click(function () {
+        $('#def').val('Main');
+
+
+
+    });
+    $("#newtwo").click(function () {
+        $('#ghi').val('Main');
+
+
+
+    });
+
+    $("#tenth").click(function () {
+        $('#event1').val('1');
+    });
+    $("#eleventh").click(function () {
+        $('#event2').val('2');
+
+    }); $("#newthree").click(function () {
+        $('#event3').val('3');
+
+    });
+
+    $("#sixth").click(function () {
+
+        $('#submit').click();
+    });
+
+    $("#seventh").click(function () {
+        $('#submityo').click();
+
+
+    }); $("#newfour").click(function () {
+        $('#submitnow').click();
+
+
+    }); $("#neweigth").click(function () {
+        $('#submitplease').click();
+
+
+    });
+    $("#eigth").click(function () {
+        $('#sixth').click();
+
+        $('#seventh').click();
+
+        $('#newfour').click();
+
+        $('#neweigth').click();
+
+    });
+
+    $("#target").click(function () {
+
+        var count = 1;
+        var id = 1;
+        $('#tabletest tr').each(function () {
+            var color = '';
+            var x = $(this).css('backgroundColor');
+            hexc(x);
+            function hexc(colorval) {
+                var parts = colorval.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
+                delete (parts[0]);
+                for (var i = 1; i <= 3; ++i) {
+                    parts[i] = parseInt(parts[i]).toString(16);
+                    if (parts[i].length == 1) parts[i] = '0' + parts[i];
+                }
+                color = '#' + parts.join('');
+            }
+
+            if (color == '#000000') {
+                $(this).append(' <td>Important</td>');
+                if (count == 1) {
+                    $("#third").click();
+                }
+                if (count == 2) {
+                    $("#fourth").click();
+
+                } if (count == 3) {
+                    $("#newtwo").click();
+
+                }
+
+            }
+            else if (color == '#0000ff') {
+                $(this).append(' <td>Main</td>');
+                if (count == 1) {
+                    $("#first").click();
+                }
+                if (count == 2) {
+                    $("#second").click();
+
+                } if (count == 3) {
+                    $("#newone").click();
+
+                }
+            } ++count;
+
+            if (id == 1) {
+                $("#tenth").click();
+            }
+            else if (id == 2) {
+                $("#eleventh").click();
+            } else if (id == 3) {
+                $("#newthree").click();
+            }
+            ++id;
+        });
+    });
+</script>

@@ -1,0 +1,419 @@
+﻿<div id="panel">
+    <div id="panelCaller" class="rotate"><h4>Side-Panel</h4></div>
+    <div id="filter-panel">
+        <h3>Content</h3>
+
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                Select<span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                <li role="presentation"><a asp-controller="product" asp-action="index" role="menuitem" tabindex="-1">Charts</a></li>
+                <li role="presentation"><a asp-controller="event" asp-action="index" role="menuitem" tabindex="-1">Calendar</a></li>
+                <li role="presentation"><a asp-controller="event" asp-action="edit" role="menuitem" tabindex="-1">To-Do List</a></li>
+            </ul>
+        </div>
+        <h3>Select</h3>
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown">
+                Select<span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu2">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Add</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Index</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Edit</a></li>
+            </ul>
+        </div>
+        <div class="filter-buttons">
+            <ul>
+                <li>
+                    <a class="btn btn-default  btn-md" role="button"><i class="fa fa-filter fa-2"></i></a>
+                </li>
+                <li>
+                    <a class="btn btn-default  btn-md" role="button"><i class="fa fa-undo fa-2"></i></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+<div class="homepage-hero-module">
+    <div class="video-container">
+        <div class="title-container">
+            <div class="headline"><div class="menu">
+
+    <div class="morph pic" id="content">
+        <a asp-controller="kanbanviewproduct" asp-action="index">
+            <img src="https://blog-assets.hootsuite.com/wp-content/uploads/2017/06/social-media-content-calendar-940x470.jpg" alt="">
+        </a>
+    </div>
+    <div class="morph pic" id="content">
+        <a asp-controller="event" asp-action="nextindex">
+            <img src="https://www.drupal.org/files/project-images/charts-examples.png" alt="">
+        </a>
+    </div>
+    <div class="morph pic" id="content">
+        <a asp-controller="kanbanviewproject" asp-action="index">
+            <img src="https://www.online-tech-tips.com/wp-content/uploads/2019/07/ms-excel-icon-27.jpg.webp" alt="">
+        </a>
+    </div>
+</div>
+</div>
+            <div class="description"></div>
+        </div>
+        <div class="filter"></div>
+        <video autoplay loop class="fillWidth">
+
+            <source src="@Url.Content("~/Video/Abstract%20-%2027726.mp4")" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+        <div class="poster hidden">
+
+        </div>
+    </div>
+</div>
+<style>
+
+    .video-container .poster img {
+        width: 100%;
+        bottom: 0;
+        position: absolute;
+    }
+
+    .video-container .filter {
+        z-index: 100;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.4);
+        width: 100%;
+    }
+
+    .video-container .title-container {
+        z-index: 1000;
+        position: absolute;
+        top: 35%;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+    }
+
+    .video-container .description .inner {
+        font-size: 1em;
+        width: 45%;
+        margin: 0 auto;
+    }
+
+    .video-container .link {
+        position: absolute;
+        bottom: 3em;
+        width: 200%;
+        text-align: center;
+        z-index: 1001;
+        font-size: 2em;
+        color: #fff;
+    }
+
+        .video-container .link a {
+            color: #fff;
+        }
+
+    .video-container video {
+        position: absolute;
+        z-index: 0;
+        bottom: 0;
+    }
+
+        .video-container video.fillWidth {
+            width: 100%;
+        }
+
+
+    .homepage-hero-module {
+        border-right: none;
+        border-left: none;
+        position: center;
+    }
+
+    .no-video .video-container video,
+    .touch .video-container video {
+        display: none;
+    }
+
+    .no-video .video-container .poster,
+    .touch .video-container .poster {
+        display: block !important;
+    }
+
+    .video-container {
+        bottom: 0%;
+        left: 0;
+        top: 0%;
+        right: 0%;
+        overflow: auto;
+        background: #000;
+        position: fixed;
+        height: 100%;
+        width: 200%;
+        transition: left 0.4s ease-in-out;
+        -o-transition: left 0.4s ease-in-out;
+        -ms-transition: left 0.4s ease-in-out;
+        -moz-transition: left 0.4s ease-in-out;
+        -webkit-transition: left 0.4s ease-in-out;
+    }
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    body {
+        background: #333;
+    }
+
+    .pic {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+
+    .morph {
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+        .morph:hover {
+            border-radius: 50%;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+
+    .work {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+    .Jerry {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }
+
+    .Tom {
+        border: 10px solid #fff;
+        float: left;
+        height: 150px;
+        width: 150px;
+        margin: 20px;
+        overflow: hidden;
+        -webkit-box-shadow: 5px 5px 5px #111;
+        box-shadow: 5px 5px 5px #111;
+    }.menu {
+    margin-left:100px;
+    margin-top:100px;
+    background-color:firebrick;
+}
+.menu li {
+    background-color:red;
+}
+
+    .morph {
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+    }
+
+        .morph:hover {
+            border-radius: 50%;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+
+    .box {
+        width: 500px;
+        height: 300px;
+        border: 5px solid #333;
+        background-image: url('images/images.png');
+    }
+
+    #panel {
+        position: fixed;
+        background: #444;
+        color: #E0E0E3;
+        height: 100%;
+        width: 300px;
+        left: -300px;
+        transition: left 0.4s ease-in-out;
+        -o-transition: left 0.4s ease-in-out;
+        -ms-transition: left 0.4s ease-in-out;
+        -moz-transition: left 0.4s ease-in-out;
+        -webkit-transition: left 0.4s ease-in-out;
+    }
+
+        #panel h2, #panel p, #filter-panel {
+            padding: 25px;
+        }
+
+            #filter-panel li {
+                padding: 3px 0 1px 0
+            }
+
+            #filter-panel h3 {
+                margin-bottom: 30px
+            }
+
+            #filter-panel .filter-buttons li {
+                display: inline;
+            }
+
+            #filter-panel ul:nth-of-type(1) li:hover {
+                background: transparent
+            }
+
+    #panelCaller {
+        position: absolute;
+        top: 50px;
+        left: 288px;
+        padding: 10px 20px;
+        background: #444;
+    }
+
+    #panel:hover {
+        left: 0px;
+    }
+
+    #filter-panel ul {
+        list-style-type: none;
+        margin: 0px;
+    }
+
+        #filter-panel ul li {
+            list-style-type: none;
+            padding: 10px
+        }
+
+    #filter-panel .filter-buttons {
+        margin: 40px 0 0 40px;
+        width: 100%;
+    }
+
+        #filter-panel .filter-buttons ul {
+            margin-left: -50px;
+        }
+
+    .rotate {
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    }
+</style>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<script>
+    /** Document Ready Functions **/
+    /********************************************************************/
+
+    $(document).ready(function () {
+
+        // Resive video
+        scaleVideoContainer();
+
+        initBannerVideoSize('.video-container .poster img');
+        initBannerVideoSize('.video-container .filter');
+        initBannerVideoSize('.video-container video');
+
+        $(window).on('resize', function () {
+            scaleVideoContainer();
+            scaleBannerVideoSize('.video-container .poster img');
+            scaleBannerVideoSize('.video-container .filter');
+            scaleBannerVideoSize('.video-container video');
+        });
+
+    });
+
+    /** Reusable Functions **/
+    /********************************************************************/
+
+    function scaleVideoContainer() {
+
+        var height = $(window).height();
+        var unitHeight = parseInt(height) + 'px';
+        $('.homepage-hero-module').css('height', unitHeight);
+
+    }
+
+    function initBannerVideoSize(element) {
+
+        $(element).each(function () {
+            $(this).data('height', $(this).height());
+            $(this).data('width', $(this).width());
+        });
+
+        scaleBannerVideoSize(element);
+
+    }
+
+    function scaleBannerVideoSize(element) {
+
+        var windowWidth = $(window).width(),
+            windowHeight = $(window).height(),
+            videoWidth,
+            videoHeight;
+
+        console.log(windowHeight);
+
+        $(element).each(function () {
+            var videoAspectRatio = $(this).data('height') / $(this).data('width'),
+                windowAspectRatio = windowHeight / windowWidth;
+
+            if (videoAspectRatio > windowAspectRatio) {
+                videoWidth = windowWidth;
+                videoHeight = videoWidth * videoAspectRatio;
+                $(this).css({ 'top': -(videoHeight - windowHeight) / 2 + 'px', 'margin-left': 0 });
+            } else {
+                videoHeight = windowHeight;
+                videoWidth = videoHeight / videoAspectRatio;
+                $(this).css({ 'margin-top': 0, 'margin-left': -(videoWidth - windowWidth) / 2 + 'px' });
+            }
+
+            $(this).width(videoWidth).height(videoHeight);
+
+            $('.homepage-hero-module .video-container video').addClass('fadeIn animated');
+
+
+        });
+    }</script>

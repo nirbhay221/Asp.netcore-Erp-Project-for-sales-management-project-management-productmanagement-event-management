@@ -1,0 +1,61 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ProductSalesProject List</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="@Url.Action("~/scripts/jquery-3.3.1.min.js")"></script>
+    <script type="text/javascript" src="@Url.Action("~/scripts/bootstrap.min.js")"></script>
+</head>
+<body>
+    <a asp-controller="ProductSales" asp-action="add">Add</a>
+
+    <div></div><div></div>
+    <a asp-controller="mainhome" asp-action="newindex">Index</a>
+
+    <div class="container-fluid py-4">
+        <h4 class="text-center text-uppercase">Project Sales List</h4>
+        <table class="table table-striped table-bordered">
+            <thead class="bg-dark text-white">
+                <tr>
+                    <th>Id</th>
+                    <th>Project Id</th>
+                    <th>Sales Id</th>
+                    <th>Price</th>
+                    <th>Options</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ProductSales in ViewBag.ProductSales)
+                {
+                    <tr>
+                        <td>@ProductSales.Id</td>
+                        <td>@ProductSales.Project_Id</td>
+                        <td>@ProductSales.Sales_Id</td>
+
+                        <td>@ProductSales.Price</td>
+
+                        <td>
+                            <a asp-controller="ProductSales" asp-action="edit" asp-route-id="@ProductSales.Id">Edit</a>
+                            |
+                            <a asp-controller="ProductSales" asp-action="delete" asp-route-id="@ProductSales.Id" onclick="return confirm('Are you sure ?')">Delete</a>
+                        </td>
+
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+<style>
+    body {
+        background: url('https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat fixed center center;
+        background-size: cover;
+        font-family: Montserrat;
+    }
+</style>

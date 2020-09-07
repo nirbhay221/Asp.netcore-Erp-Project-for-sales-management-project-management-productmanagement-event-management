@@ -1,0 +1,77 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @ViewBag.result
+    <br />
+    <form method="post" enctype="multipart/form-data" asp-controller="eventexcel" asp-action="importXML">
+        <input type="file" name="xmlFile" />
+        <input type="submit" name="Import" />
+
+
+        <a asp-controller="mainhome" asp-action="newindex">Index</a>
+    </form>
+    @if (ViewBag.Event != null)
+    {
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>StartDate</th>
+        <th>EndDate</th>
+        <th>Budget</th>
+        <th>Profit</th>
+        <th>Location</th>
+
+        <th>Options</th>
+    </tr>
+    @foreach (var Event in ViewBag.Event)
+    {
+        <tr>
+            <td>@Event.Id</td>
+            <td>@Event.Title</td>
+            <td>@Event.Description</td>
+            <td>@Event.StartDate</td>
+
+            <td>@Event.EndDate</td>
+
+            <td>@Event.Budget</td>
+            <td>@Event.Profit</td>
+
+            <td>@Event.Location</td>
+
+            <td>
+                <a asp-controller="Event" asp-action="edit" asp-route-id="@Event.Id">Edit</a>
+                |
+                <a asp-controller="Event" asp-action="delete" asp-route-id="@Event.Id" onclick="return confirm('Are you sure ?')">Delete</a>
+            </td>
+
+
+        </tr>
+    }
+</table>
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

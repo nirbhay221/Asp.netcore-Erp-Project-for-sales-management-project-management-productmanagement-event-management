@@ -1,0 +1,63 @@
+﻿@model EmpManagement.Models.RentedForProject
+
+<a asp-controller="mainhome" asp-action="newindex">Index</a>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+</head>
+<body>
+    <h3>rented List</h3>
+    <table border="1" cellspacing="2" celladding="2">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr> @foreach (var rented in ViewBag.RentedForProject)
+        {
+
+            <tr>
+                <td>@rented.Id</td>
+
+                <td>@rented.Name</td>
+                <td class="rowDataSd">@rented.Price</td>
+
+                <td><a asp-action="buy" asp-controller="cart" asp-route-id="@rented.Id">BuyNow</a></td>
+
+
+
+
+
+
+
+            </tr>
+
+        }
+    </table>
+    <div class="totalCol">Total :</div>
+</body>
+
+</html>
+<script>https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js</script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        var result = [];
+        $('table tr').each(function () {
+            $('td', this).each(function (index, val) {
+                if (!result[index]) result[index] = 0;
+                result[index] += parseInt($(val).text());
+            });
+        });
+
+        $('table').append('<tr></tr>');
+        $(result).each(function () {
+            $('.totalCol').last().append('<td>' + this + '</td>');
+        });
+    });</script>
+
